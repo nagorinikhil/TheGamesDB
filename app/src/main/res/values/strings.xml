@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">The Games DB</string>
+    <string name="buttonSearch">Search</string>
+    <string name="buttonGo">Go</string>
+    <string name="Game">Game</string>
+    <string name="Trailer">Trailer</string>
+    <string name="textViewOverview">Overview</string>
+    <string name="buttonFinish">Finish</string>
+    <string name="buttonSimilarGames">Similar Games</string>
+    <string name="buttonTrailer">Play Trailer</string>
+    <string name="baseURLGetGameList">http://thegamesdb.net/api/GetGamesList.php?name=</string>
+    <string name="baseURlGetGame">http://thegamesdb.net/api/GetGame.php?id=</string>
+    <string name="baseURLImage">http://thegamesdb.net/banners/</string>
+</resources>
